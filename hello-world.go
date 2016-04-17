@@ -15,4 +15,7 @@ func main(){
 	var fl float64= 1.654;
 	fmt.Println("This is a float ",fl);
 
+	// String format
+	fmt.Printf("Formatted type %01.2f",fl)
+
 }
